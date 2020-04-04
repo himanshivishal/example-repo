@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{3E72C618-0B0D-4CB7-B2AB-25A332A47DC7}|">
+  <MonoDevelop.Ide.ItemProperties.DockerDemo.Tests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DockerDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../visits/docker-compose.yml">
+    <Files>
+      <File FileName="../visits/docker-compose.yml" Line="8" Column="26" />
+      <File FileName="../visits/index.js" Line="20" Column="4" />
+      <File FileName="../visits/package.json" Line="1" Column="1" />
+      <File FileName="../visits/Dockerfile" Line="1" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DockerDemo" expanded="True">
+            <Node name="DockerDemo" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Scripts" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="docker-compose.yml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DockerDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
